@@ -1,12 +1,12 @@
 .logoPrincipal{
     width: 100%;
-    height: 50px;
-    margin: 8px;
+    margin: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   
   .logo{
-    height: 70px;
+    width: 80px;
+    height: 65px;
   }
